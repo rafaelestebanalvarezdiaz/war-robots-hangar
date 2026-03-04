@@ -1,0 +1,45 @@
+p {
+  color: brown;
+   font-size: 15px;  
+    border: 10px, 5px, 10px,5px;
+     background-color: beige;}
+h2 {
+    color: blue;}
+
+.estilorobotico {
+    background-color: aqua;
+     font-family: 'Times New Roman', Times, serif;
+}
+button:hover {background-color: red;}
+.estilorobotico:hover {
+    background-color: red;
+}
+.estilorobotico {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 2.0s ease;
+}
+
+.estilorobotico:hover {
+    background-color:bisque;
+}
+
+button {
+
+  background-color: grey; /* Color inicial del botón */
+
+  color: white;
+
+  padding: 10px 20px;
+
+  border: none;
+
+  cursor: pointer;
+
+}
+
+button:hover {
+
+  background-color: blue; /* Color del botón cuando el ratón pasa por encima */
+
+}
